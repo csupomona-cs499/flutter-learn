@@ -1,4 +1,4 @@
-## L4: Prepare for the Learning Curve
+## L5: Prepare for the Learning Curve
 
 Flutter is a professional tool that has very powerful functions, so that means it has quite a lot of things to learn. It is very common to find it overwhelming in the beginning, but here are some important tips to keep in minds:
 

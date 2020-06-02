@@ -1,4 +1,4 @@
-## L5: Know the Basic Sample Code Structure
+## L6: Know the Basic Sample Code Structure
 
 The given `main.dart` file is a concise sample file to illustrate how dart and Flutter works. Let's take a look at this piece of code:
 

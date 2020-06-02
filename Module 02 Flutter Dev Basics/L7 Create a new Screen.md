@@ -1,4 +1,4 @@
-## L6: Creating Your Own Screen
+## L7: Creating Your Own Screen
 
 Based on the provided sample, you can now learn how to create your own screen. 
 
