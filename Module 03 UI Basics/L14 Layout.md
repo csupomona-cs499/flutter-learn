@@ -1,4 +1,4 @@
-## L14: Layout: Column and Row
+## Layout: Column and Row
 
 
 

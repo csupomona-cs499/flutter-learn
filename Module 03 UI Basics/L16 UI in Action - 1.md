@@ -1,4 +1,4 @@
-## L2-6: Layout in Actions
+## Layout in Actions
 
 Let's use what we have learned to try the following example, in order to understand these basic usage of layout and widgets.
 

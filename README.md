@@ -15,14 +15,14 @@
 | 07     | Create Your New Screens         |                                                     |
 | 08     | Basic Flutter Navigation        | Create 3-4 sample screens and enable the navigation |
 | 09     | Dart Basics                     |                                                     |
-| 10     |                                 |                                                     |
-| 11     |                                 |                                                     |
-| 12     |                                 |                                                     |
-| 13     |                                 |                                                     |
-| 14     |                                 |                                                     |
-| 15     |                                 |                                                     |
-| 16     |                                 |                                                     |
-| 17     |                                 |                                                     |
+| 10     | UI Overview                     |                                                     |
+| 11     | Understand Scaffold             |                                                     |
+| 12     | Basic UI Widgets                |                                                     |
+| 13     | Container                       |                                                     |
+| 14     | Layout - Column                 |                                                     |
+| 15     | Layout - Row                    |                                                     |
+| 16     | Top-down UI Development         |                                                     |
+| 17     | UI in Action - 1                | Create your own Login screen                        |
 | 18     |                                 |                                                     |
 | 19     |                                 |                                                     |
 | 20     |                                 |                                                     |

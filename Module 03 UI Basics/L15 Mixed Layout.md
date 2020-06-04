@@ -1,4 +1,4 @@
-## L2-5: Mixed Layout with Column and Row
+## Mixed Layout with Column and Row
 
 You can mix the Column and Row together, and here is one example:
 
