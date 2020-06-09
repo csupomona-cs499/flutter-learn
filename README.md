@@ -23,10 +23,10 @@
 | 15     | Layout - Row                    |                                                     |
 | 16     | Top-down UI Development         |                                                     |
 | 17     | UI in Action - 1                | Create your own Login screen                        |
-| 18     |                                 |                                                     |
-| 19     |                                 |                                                     |
-| 20     |                                 |                                                     |
-|        |                                 |                                                     |
+| 18     | UI in Action - 2                |                                                     |
+| 19     | ListView Basics                 |                                                     |
+| 20     | ListView and Data               |                                                     |
+| 21     | ListView and ListTile           | Create your own ListView                            |
 |        |                                 |                                                     |
 |        |                                 |                                                     |
 |        |                                 |                                                     |
