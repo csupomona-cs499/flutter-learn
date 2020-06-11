@@ -33,7 +33,7 @@
 | 25     | Firebase Realtime Database - Write           |                                                     |
 | 26     | Firebase Realtime Database - Read            |                                                     |
 | 27     | Firebase Realtime Database - Update          |                                                     |
-| 28     | Firebase Realtime Database - Realtime Update |                                                     |
+| 28     | Firebase Realtime Database - Realtime Update | Setup Firebase and Enable Data Read and Write       |
 |        |                                              |                                                     |
 |        |                                              |                                                     |
 |        |                                              |                                                     |
