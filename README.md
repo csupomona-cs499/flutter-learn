@@ -34,15 +34,15 @@
 | 26     | Firebase Realtime Database - Read            |                                                     |
 | 27     | Firebase Realtime Database - Update          |                                                     |
 | 28     | Firebase Realtime Database - Realtime Update | Setup Firebase and Enable Data Read and Write       |
-|        |                                              |                                                     |
-|        |                                              |                                                     |
-|        |                                              |                                                     |
-|        |                                              |                                                     |
-|        |                                              |                                                     |
-|        |                                              |                                                     |
-|        |                                              |                                                     |
-|        |                                              |                                                     |
-|        |                                              |                                                     |
-|        |                                              |                                                     |
-|        |                                              |                                                     |
+| 29     | Messaging App 1 - Login/Signup UI            |                                                     |
+| 30     | Messaging App 2 - User Profile               |                                                     |
+| 31     | Messaging App 3 - Friend List                |                                                     |
+| 32     | Messaging App 4 - Group Chat                 |                                                     |
+| 33     | Messaging App 5 - Run the App on iOS         |                                                     |
+| 34     | Messaging App 6 - Private Messaging          |                                                     |
+| 35     | Messaging App 7 - Profile Photo              |                                                     |
+| 36     | Messaging App 8 - Firebase Storage           |                                                     |
+| 37     | Messaging App 9 - Image Message              |                                                     |
+| 38     | Shared Preferences                           |                                                     |
+| 39     | Android Publishing                           | Publish your app to Google Pla                      |
 
